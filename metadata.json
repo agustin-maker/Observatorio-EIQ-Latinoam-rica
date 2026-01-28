@@ -1,0 +1,5 @@
+{
+  "name": "Observatorio EIQ LATAM",
+  "description": "An advanced analytics dashboard for monitoring the Environmental Impact Quotient (EIQ) in Latin American broadacre crops, featuring real-time data visualization and AI-powered agricultural insights.",
+  "requestFramePermissions": []
+}
